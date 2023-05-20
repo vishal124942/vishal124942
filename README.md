@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vishal7042
 - 👀 I’m interested in ..coding,devops.
-- 🌱 I’m currently learning .data structures and algorithms and devops..
+- 🌱 I’m currently learning .data structures and algorithms and web dev..
 - 💞️ I’m looking to collaborate on ..open source devops projects.
 - 📫 How to reach me .mail me vishalverma4942@gmail.com..
 
